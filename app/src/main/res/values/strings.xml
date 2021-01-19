@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Git Hub API</string>
+    <string name="txt_no_result_found">No result found for your search</string>
+    <string name="txt_technical_error">Oops, a technical error happened</string>
+    <string name="txt_btn_try_again">Try Again</string>
+    <string name="txt_user">user:</string>
+</resources>
